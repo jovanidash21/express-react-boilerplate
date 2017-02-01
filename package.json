@@ -16,6 +16,8 @@
     "express": "~4.14.0",
     "jade": "~1.11.0",
     "morgan": "~1.7.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
     "serve-favicon": "~2.3.0",
     "webpack": "^2.2.1"
   },
