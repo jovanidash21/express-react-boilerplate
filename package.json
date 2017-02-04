@@ -21,10 +21,5 @@
     "react-dom": "^15.4.2",
     "serve-favicon": "~2.3.0",
     "webpack": "^2.2.1"
-  },
-  "devDependencies": {
-    "webpack-dev-middleware": "^1.9.0",
-    "webpack-dev-server": "^1.16.3",
-    "webpack-hot-middleware": "^2.16.1"
   }
 }
