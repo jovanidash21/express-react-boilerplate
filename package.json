@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "postinstall": "webpack -p",
+	"build": "webpack -p",
     "start": "node ./bin/www"
   },
   "dependencies": {
