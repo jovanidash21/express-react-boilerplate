@@ -9,7 +9,7 @@
 ```
 git clone https://github.com/jovanidash21/nodejs-express-react.git
 ```
-* Using a terminal or cmd, navigate to the project directory.
+* Navigate to the project directory.
 ```
 cd nodejs-express-react
 ```
