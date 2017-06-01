@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('nodejs-express-react:server');
+var debug = require('debug')('express-react-boilerplate:server');
 var http = require('http');
 
 /**

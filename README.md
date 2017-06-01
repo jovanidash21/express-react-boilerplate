@@ -1,4 +1,4 @@
-# Node.js-Express-React-Boilerplate
+# Express-React Boilerplate
 ---
 
 ## Prerequisite
@@ -7,11 +7,11 @@
 ## Installation
 * Clone or download this repository.
 ```
-git clone https://github.com/jovanidash21/nodejs-express-react.git
+git clone https://github.com/jovanidash21/express-react-boilerplate.git
 ```
 * Navigate to the project directory.
 ```
-cd nodejs-express-react
+cd express-react-boilerplate
 ```
 * Install node modules.
 ```
