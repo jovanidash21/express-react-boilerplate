@@ -4,7 +4,6 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
-var browserSync = require('browser-sync');
 
 var index = require('./routes/index');
 
@@ -12,6 +11,7 @@ var app = express();
 
 // browserSync setup
 if ( process.env.NODE_ENV != 'production' ) {
+  var browserSync = require('browser-sync');
   browserSync({
     files: ['./**/*'],
     online: false,
