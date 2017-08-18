@@ -17,22 +17,19 @@ cd express-react-boilerplate
 ```
 npm install
 ```
-* Run 'webpack.config.js'.
+* Run the project.
 ```
-webpack -p
-```
-* Run 'www' file inside the bin directory.
-```
-node ./bin/www
+npm run build
 ```
 * Open a browser and visit ```localhost:3000```.
+* Run in dev mode.
+```
+npm run dev
+```
 
-## Connect
-- [Wordpress](https://jovaniwarguez.wordpress.com/)
-- [Facebook](https://facebook.com/jovani.cadornawarguez)
-- [Twitter](https://twitter.com/jovanidash21)
-- [Instagram](https://www.instagram.com/jovanidash21/)
-- [Google+](https://plus.google.com/u/0/104385173780051504413)
-- [LinkedIn](https://www.linkedin.com/in/jovani-warguez-827a8a11b?trk=nav_responsive_tab_profile_pic)
-- [YouTube](https://www.youtube.com/channel/UCNiVxhbJ6Ku9keIjkQX3RRQ)
-- [CodePen](http://codepen.io/jovanidash21/)
+## NPM Scripts
+* ```npm start``` - start the server.
+* ```npm run build``` - run the project in production mode.
+* ```npm run build:client``` - run client side in production mode.
+* ```npm run build:server``` - run server side in production mode.
+* ```npm run dev``` - run the project in dev mode.
