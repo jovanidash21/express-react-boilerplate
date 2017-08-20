@@ -33,3 +33,6 @@ npm run dev
 * ```npm run build:client``` - run client side in production mode.
 * ```npm run build:server``` - run server side in production mode.
 * ```npm run dev``` - run the project in dev mode.
+
+## License
+Licensed under [MIT](https://opensource.org/licenses/mit-license.php).
