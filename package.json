@@ -22,6 +22,7 @@
     "debug": "^2.6.8",
     "express": "^4.15.3",
     "morgan": "^1.8.2",
+    "npm-run-all": "^4.1.1",
     "pug": "^2.0.0-rc.3",
     "serve-favicon": "^2.4.3"
   },
